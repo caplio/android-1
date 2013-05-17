@@ -8,7 +8,7 @@
            fetch=".."
            review="review.cyanogenmod.org" />
 
-  <remote  name="github"
+  <remote  name="pac"
            fetch=".."
            review="review.pac-man-rom.de" />
            
@@ -19,7 +19,7 @@
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cm-10.1"
-           remote="github"
+           remote="pac"
            sync-c="true"
            sync-j="4" />
 
