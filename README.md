@@ -11,7 +11,7 @@ You can send patches by using these commands:
     cd <project>
     git add <file you edited>
     git commit
-    ctop
+    cd <workspace>
     repo upload <project>
 
 Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
