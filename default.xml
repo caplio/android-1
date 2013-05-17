@@ -5,11 +5,11 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="cm"
-           fetch="https://github.com/"
+           fetch=".."
            review="review.cyanogenmod.org" />
 
   <remote  name="pac"
-           fetch="https://github.com/"
+           fetch=".."
            review="review.pac-man-rom.de/" />
 
   <remote  name="cfx" 
