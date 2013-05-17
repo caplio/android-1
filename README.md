@@ -40,6 +40,7 @@ Then to build:
 
 	./build-pac.sh <device_name>
 
-For information on how to build, check [Here](http://forum.xda-developers.com/showthread.php?t=2060017)
-Our Official Forum : [Forum](http://pac-man-rom.de/forum/)
+
+For information on how to build, check [Here](http://forum.xda-developers.com/showthread.php?t=2060017) , 
+Our Official Forum : [Forum](http://pac-man-rom.de/forum/) , 
 Our Official IRC : [#pac-rom](http://webchat.freenode.net/?channels=pac-rom)
