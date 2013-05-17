@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.pac-man-rom.de/" />
+           review="review.pac-man-rom.de" />
 
   <remote  name="cfx" 
 		   fetch="https://bitbucket.org/codefirex"  />
