@@ -3,13 +3,9 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
-
-  <remote  name="cm"
-           fetch="https://github.com/"
-           review="review.cyanogenmod.com" />
-
-  <remote  name="pac"
-           fetch="https://github.com/"
+           
+  <remote  name="github"
+           fetch=".."
            review="review.pac-man-rom.de" />
            
   <remote  name="cfx" 
@@ -19,7 +15,7 @@
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cm-10.1"
-           remote="pac"
+           remote="github"
            sync-c="true"
            sync-j="4" />
 
