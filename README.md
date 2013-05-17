@@ -13,6 +13,8 @@ You can send patches by using these commands:
     git commit
     cd <workspace>
     repo upload <project>
+    
+    cd <workspace>
 
 Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
 
@@ -38,7 +40,7 @@ Then to sync up:
     
 Then to build:
 
-	./build-pac.sh <device_name>
+    ./build-pac.sh <device_name>
 
 
 
